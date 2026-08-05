@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-✨ 포트폴리오 링크: https://bit.ly/4z548ne
+✨ 포트폴리오 링크: [click here](https://www.miricanvas.com/v2/ko/design2/v/aa43010e-e411-47fd-a815-3d1de7826cfe)
 
 <!--
 **Yeonkyung-Jeong/Yeonkyung-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

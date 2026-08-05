@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-✨ 포트폴리오 링크: https://bit.ly/4hPiRfE
+✨ 포트폴리오 링크: https://bit.ly/4z548ne
 
 <!--
 **Yeonkyung-Jeong/Yeonkyung-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
